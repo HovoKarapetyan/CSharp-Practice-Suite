@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionDuplicateChecker", "TransactionDuplicateChecker\TransactionDuplicateChecker.csproj", "{6E27F794-5C36-4739-98F9-FF5710DFE3B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendAutomationTools", "BackendAutomationTools\BackendAutomationTools.csproj", "{2E6DFEAB-8EA6-46C8-8BA4-BE84F4E703F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E27F794-5C36-4739-98F9-FF5710DFE3B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E27F794-5C36-4739-98F9-FF5710DFE3B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E27F794-5C36-4739-98F9-FF5710DFE3B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E27F794-5C36-4739-98F9-FF5710DFE3B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E6DFEAB-8EA6-46C8-8BA4-BE84F4E703F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E6DFEAB-8EA6-46C8-8BA4-BE84F4E703F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E6DFEAB-8EA6-46C8-8BA4-BE84F4E703F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E6DFEAB-8EA6-46C8-8BA4-BE84F4E703F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1A519A9-A0B3-407E-A9C7-23DDB6AF3D2F}
+	EndGlobalSection
+EndGlobal
